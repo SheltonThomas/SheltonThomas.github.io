@@ -12,10 +12,19 @@ Game created as a production project about a moth that is in search of a new hom
 
 <img src="image.png" alt="Portal" width="500"/>
 
-Demo for portals I made in UE4 using C++.
+Demo showing different portals I made in UE4 using C++.
 
 * [Source](https://github.com/SheltonThomas/Portals)
 * [Latest Release](https://github.com/SheltonThomas/Portals/releases/tag/1)
+
+### **Labyrinth of the Crystal Cheese**
+
+<img src="labyrinth.png" alt="Labyrinth" width="500"/>
+
+A cat and mouse game where you play a wizard mouse trying to collect more crystal cheese than the dragon cat in the labyrinth. Make sure not to let the cat catch you!
+
+* [Source](https://github.com/SheltonThomas/LabyrinthOfTheCrystalCheese)
+* [Latest Release](https://g1itch4tron.itch.io/labyrinthofthecrystalcheese)
 
 # Header 1
 ## Header 2
