@@ -1,8 +1,8 @@
 # Projects
 
-###Gestalt
+### Gestalt
 
-![Gestalt](GestaltSummer.png)
+<img src="GestaltSummer.png" alt="Gestalt" width="333"/>
 
 # Header 1
 ## Header 2
