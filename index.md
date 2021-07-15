@@ -2,7 +2,11 @@
 
 ### Gestalt
 
-<img src="GestaltSummer.png" alt="Gestalt" width="333"/>
+<img src="GestaltSummer.png" alt="Gestalt" width="500"/>
+
+Game created as a production project about a moth that is in search of a new home after its old home burned down.
+
+* [Latest Release](https://team-forest.itch.io/gestalt)
 
 # Header 1
 ## Header 2
