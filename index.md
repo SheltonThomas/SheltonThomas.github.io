@@ -27,13 +27,6 @@ A cat and mouse game where you play a wizard mouse trying to collect more crysta
 * [Source](https://github.com/SheltonThomas/LabyrinthOfTheCrystalCheese)
 * [Latest Release](https://g1itch4tron.itch.io/labyrinthofthecrystalcheese)
 
-### **RunnerGame**
-
-Auto scrolling shooter game made in Unity and made with WebGl in mind.
-
-* [Source](https://github.com/SheltonThomas/RunnerGame)
-* [Latest Release](https://SheltonThomas.github.io/RunnerGame/player/)
-
 ### **Asteroid Game**
 
 <img src="image.png" alt="Asteroids" width="500"/>
@@ -42,3 +35,11 @@ A cat and mouse game where you play a wizard mouse trying to collect more crysta
 
 * [Source](https://github.com/SheltonThomas/Asteroid-Game)
 * [Latest Release](https://github.com/SheltonThomas/Asteroid-Game/releases/tag/1.0)
+
+
+### **RunnerGame**
+
+Auto scrolling shooter game made in Unity and made with WebGl in mind.
+
+* [Source](https://github.com/SheltonThomas/RunnerGame)
+* [Latest Release](https://SheltonThomas.github.io/RunnerGame/player/)
