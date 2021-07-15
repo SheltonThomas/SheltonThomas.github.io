@@ -1,3 +1,4 @@
+<img src="Resume.pdf">_Resume_
 # Projects
 
 ### **Gestalt**
