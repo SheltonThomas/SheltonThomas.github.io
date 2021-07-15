@@ -1,6 +1,6 @@
 # Projects
 
-### Gestalt
+### **Gestalt**
 
 <img src="GestaltSummer.png" alt="Gestalt" width="500"/>
 
@@ -8,7 +8,7 @@ Game created as a production project about a moth that is in search of a new hom
 
 * [Latest Release](https://team-forest.itch.io/gestalt)
 
-### Portal Demo
+### **Portal Demo**
 
 <img src="image.png" alt="Portal" width="500"/>
 
