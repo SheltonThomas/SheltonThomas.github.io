@@ -1,4 +1,4 @@
-<img src="Resume.pdf">_Resume_
+[Resume](Resume.pdf)
 # Projects
 
 ### **Gestalt**
